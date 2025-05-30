@@ -3,8 +3,6 @@
   <img src="https://komarev.com/ghpvc/?username=neelhmodi&label=Profile%20views&color=0e75b6&style=flat" alt="neelhmodi" />
 </p>
 
-<img src="https://sl.bing.net/bhRYzNyK3si" alt="Image">
-
 - 🔭 I’m currently working on *Instagram Reached Forcasting Project*
 
 - 🌱 I’m currently learning *Data Structure & Algorithm*

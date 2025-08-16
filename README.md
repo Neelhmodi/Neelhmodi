@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on *Instagram Reached Forcasting Project*
 
-- 🌱 I’m currently learning *Data Structure & Algorithm*
+- 🌱 I’m currently learning *Data Structure & Algorithm* and *Generative AI*
 
 - 💬 Ask me about *Machine Learning, Java, Python, Front-end Development*
 
